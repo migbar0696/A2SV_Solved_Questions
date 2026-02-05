@@ -1,0 +1,31 @@
+class Solution:
+    def countCharacters(self, words: List[str], chars: str) -> int:
+        from collections import Counter
+        freqch = Counter(chars)
+        lenw = 0
+        for ele in words:
+            flag = True
+            freqele = Counter(ele)
+            for ch in ele:
+                if freqele[ch] > freqch[ch]:
+                    flag = False
+                    break
+            
+            if  flag:
+                lenw += len(ele)
+        
+        return lenw
+
+            # or
+# class Solution:
+#     def countCharacters(self, words: List[str], chars: str) -> int:
+#         from collections import Counter
+#         freqc = Counter(chars)
+#         ans = 0
+#         for word in words:
+#             freqw = Counter(word)
+#             if all(freqw[key] <= freqc[key] for key in freqw.keys()):
+#                 ans += len(word)
+
+#         return ans
+            
