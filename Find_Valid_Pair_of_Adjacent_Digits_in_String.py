@@ -11,3 +11,21 @@ class Solution:
                 return f"{s[i]}{s[i + 1]}"
         
         return ""
+
+# or
+
+# class Solution:
+#     def findValidPair(self, s: str) -> str:
+#         from collections import Counter
+
+#         freqs = Counter(s)
+#         n = len(s)
+
+#         for i in range(n - 1):
+    
+#             if s[i] != s[i + 1] and s[i] == str(freqs[s[i]]) and s[i + 1] == str(freqs[s[i  + 1]]):
+
+#                 return s[i] + s[i + 1]
+        
+#         return ""
+
