@@ -6,9 +6,8 @@ class Solution:
         cnt = 0
         for i in range(len(nums)):
             sumn += nums[i]
-
-            if sumn - k in dictn:
-                cnt += dictn[sumn - k]
+            
+            cnt += dictn[sumn - k]
             
             dictn[sumn] += 1
         return cnt
