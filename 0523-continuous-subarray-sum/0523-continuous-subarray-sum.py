@@ -2,18 +2,18 @@ class Solution:
     def checkSubarraySum(self, nums: List[int], k: int) -> bool:
         
         dictn = Counter()
-        dictn[0] = 0
+        pre_sum = [0]
+
+        for i in range(len(nums)):
+            pre_sum.append(pre_sum[-1] + nums[i])
         
 
-        for i in range(1, len(nums)):
-            nums[i] = nums[i] + nums[i - 1]
-        
-        for i in range(len(nums)):
-            if (nums[i] % k ) not in dictn:
-                dictn[nums[i] % k] = i + 1
-                
-            if (nums[i] % k) in dictn and (i - (dictn[nums[i] % k])) > 0:
+        for i in range(len(pre_sum)):
+            if pre_sum[i] % k in dictn and (i - dictn[pre_sum[i] % k]) > 1:
                 return True
             
+            if pre_sum[i] % k not in dictn:
+                dictn[pre_sum[i] % k] = i
         
         return False
+        
