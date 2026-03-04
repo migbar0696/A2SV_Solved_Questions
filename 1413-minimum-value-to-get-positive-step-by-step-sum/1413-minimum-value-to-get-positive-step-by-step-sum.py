@@ -7,5 +7,4 @@ class Solution:
         if min(nums) >= 0:
             return 1
         
-        else:
-            return abs(min(nums)) + 1
+        return abs(min(nums)) + 1
