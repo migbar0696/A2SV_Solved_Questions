@@ -10,7 +10,7 @@ class Solution:
             return head
 
         flag = True
-        firsteven = None
+        firsteven = head.next
         lastodd = None
 
         while temp.next:
@@ -19,10 +19,6 @@ class Solution:
 
             curr.next = curr.next.next
             temp = nextn
-
-            if flag:
-                firsteven = temp
-                flag = False
             
         lasto = head
         while lasto:
