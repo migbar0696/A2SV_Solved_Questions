@@ -9,14 +9,9 @@
 class Solution:
 
     def deleteNode(self, node):
-        self.node = node
-        temp = self.node
-        while temp.next:
-            temp.val = temp.next.val
-            prev = temp
-            temp = temp.next
         
-        prev.next = None
+        node.val = node.next.val
+        node.next = node.next.next
             
         """
         :type node: ListNode
