@@ -12,10 +12,8 @@ class Solution:
         flag = True
         firsteven = None
         lastodd = None
-        i = 1
 
         while temp.next:
-            i += 1
             curr = temp
             nextn = temp.next
 
@@ -33,6 +31,4 @@ class Solution:
         
         lastodd.next = firsteven
         
-
-
         return head
