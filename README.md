@@ -11,6 +11,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
+| [1472-design-browser-history](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1472-design-browser-history/) | Medium |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [2381-shifting-letters-ii](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2381-shifting-letters-ii/) | Medium |
 ## Hash Table
@@ -59,6 +60,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+| [1472-design-browser-history](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1472-design-browser-history/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -77,8 +79,21 @@
 | [0206-reverse-linked-list](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0328-odd-even-linked-list/) | Medium |
+| [1472-design-browser-history](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1472-design-browser-history/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0206-reverse-linked-list/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1472-design-browser-history](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1472-design-browser-history/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1472-design-browser-history](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1472-design-browser-history/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1472-design-browser-history](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1472-design-browser-history/) | Medium |
 <!---LeetCode Topics End-->
