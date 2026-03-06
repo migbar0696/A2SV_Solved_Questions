@@ -13,11 +13,8 @@ class Solution:
         firsteven = None
         lastodd = None
         i = 1
+
         while temp.next:
-            if i % 2:
-                lastodd = temp
-            elif temp.next:
-                lastodd = temp.next
             i += 1
             curr = temp
             nextn = temp.next
@@ -28,7 +25,14 @@ class Solution:
             if flag:
                 firsteven = temp
                 flag = False
+            
+        lasto = head
+        while lasto:
+            lastodd = lasto
+            lasto = lasto.next
         
         lastodd.next = firsteven
         
+
+
         return head
