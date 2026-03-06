@@ -15,7 +15,6 @@ class BrowserHistory:
     def visit(self, url: str) -> None:
         new_node = ListNode(url)
 
-        # new_node.next = self.curr.next
         if self.curr.next:
             self.curr.next.prev = new_node
 
@@ -23,11 +22,6 @@ class BrowserHistory:
         new_node.prev = self.curr
 
         self.curr = new_node
-
-
-        # self.tail.next = new_node
-        # new_node.prev = self.tail
-        # self.tail = new_node
         
 
         temp = self.head
