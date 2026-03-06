@@ -71,4 +71,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->
