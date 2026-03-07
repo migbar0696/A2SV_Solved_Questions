@@ -59,6 +59,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2381-shifting-letters-ii](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2381-shifting-letters-ii/) | Medium |
+| [3794-reverse-string-prefix](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -99,4 +100,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1472-design-browser-history](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1472-design-browser-history/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3794-reverse-string-prefix](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/3794-reverse-string-prefix/) | Easy |
 <!---LeetCode Topics End-->
