@@ -47,6 +47,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0523-continuous-subarray-sum](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -104,4 +105,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3794-reverse-string-prefix](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/3794-reverse-string-prefix/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 <!---LeetCode Topics End-->
