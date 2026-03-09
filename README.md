@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0053-maximum-subarray/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+| [0496-next-greater-element-i](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -19,6 +20,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -99,6 +101,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0496-next-greater-element-i/) | Easy |
 | [1472-design-browser-history](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1472-design-browser-history/) | Medium |
 | [1598-crawler-log-folder](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1598-crawler-log-folder/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2390-removing-stars-from-a-string/) | Medium |
@@ -129,4 +132,8 @@
 | ------- | ------- |
 | [0933-number-of-recent-calls](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0933-number-of-recent-calls/) | Easy |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0496-next-greater-element-i/) | Easy |
 <!---LeetCode Topics End-->
