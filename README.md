@@ -7,6 +7,7 @@
 | [0053-maximum-subarray](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0053-maximum-subarray/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0304-range-sum-query-2d-immutable](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+| [0456-132-pattern](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0456-132-pattern/) | Medium |
 | [0496-next-greater-element-i](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -109,6 +110,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0394-decode-string](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0394-decode-string/) | Medium |
+| [0456-132-pattern](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0456-132-pattern/) | Medium |
 | [0496-next-greater-element-i](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0856-score-of-parentheses](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0856-score-of-parentheses/) | Medium |
 | [1472-design-browser-history](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1472-design-browser-history/) | Medium |
@@ -146,6 +148,7 @@
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0456-132-pattern](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0456-132-pattern/) | Medium |
 | [0496-next-greater-element-i](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0496-next-greater-element-i/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -160,5 +163,10 @@
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0456-132-pattern](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0456-132-pattern/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0456-132-pattern](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0456-132-pattern/) | Medium |
 <!---LeetCode Topics End-->
