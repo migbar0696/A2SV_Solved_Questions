@@ -2,26 +2,18 @@ class Solution:
     def largestRectangleArea(self, heights: List[int]) -> int:
         monds = []
         maxa = 0
-        num = []
 
         for i in range(len(heights)):
+            start = i
             while monds and heights[i] < monds[-1][0]:
                 maxa = max(maxa, (i - monds[-1][1]) * monds[-1][0])
                 num = monds.pop()
+                start = num[1]
             
-            if i == len(heights) - 1 and num:
-                monds.append([heights[i], num[1]])
-                monds.append([heights[i], i])
-            elif num:
-                monds.append([heights[i], num[1]])
-            else:
-                monds.append([heights[i], i])
+            monds.append([heights[i],start])
             
-            num = []
-        
-        if monds:
-            lastn = monds[-1]
-            for i in range(len(monds) - 1, -1, -1):
-                maxa = max(maxa, (lastn[1] - monds[i][1] + 1) * monds[i][0])
+
+        for i in range(len(monds)):
+            maxa = max(maxa, monds[i][0] * (len(heights) - monds[i][1]))
         
         return maxa
