@@ -24,6 +24,7 @@
 | [1598-crawler-log-folder](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1598-crawler-log-folder/) | Easy |
 | [2381-shifting-letters-ii](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2381-shifting-letters-ii/) | Medium |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
+| [3683-earliest-time-to-finish-one-task](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/3683-earliest-time-to-finish-one-task/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
