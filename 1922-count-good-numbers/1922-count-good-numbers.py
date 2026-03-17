@@ -8,9 +8,9 @@ class Solution:
             return 1
         
         y =self.myPow(x, n//2) 
-        y *= y%mod
+        y *= y
         if n % 2:  
-            y *= x%mod
+            y *= x
             
         return y %mod
 
