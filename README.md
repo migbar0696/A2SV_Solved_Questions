@@ -67,6 +67,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0050-powx-n/) | Medium |
 | [0509-fibonacci-number](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0509-fibonacci-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0781-rabbits-in-forest](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0781-rabbits-in-forest/) | Medium |
@@ -126,6 +127,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0394-decode-string/) | Medium |
 | [0509-fibonacci-number](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0509-fibonacci-number/) | Easy |
