@@ -220,4 +220,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0486-predict-the-winner/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0100-same-tree/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0100-same-tree/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0100-same-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0100-same-tree/) | Easy |
 <!---LeetCode Topics End-->
