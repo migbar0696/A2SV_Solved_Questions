@@ -24,6 +24,7 @@
 | [1472-design-browser-history](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1472-design-browser-history/) | Medium |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1598-crawler-log-folder](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1598-crawler-log-folder/) | Easy |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2366-minimum-replacements-to-sort-the-array/) | Hard |
 | [2381-shifting-letters-ii](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2381-shifting-letters-ii/) | Medium |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
@@ -72,6 +73,7 @@
 | [0523-continuous-subarray-sum](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0781-rabbits-in-forest](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0781-rabbits-in-forest/) | Medium |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1922-count-good-numbers](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1922-count-good-numbers/) | Medium |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2139-minimum-moves-to-reach-target-score/) | Medium |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2366-minimum-replacements-to-sort-the-array/) | Hard |
@@ -132,6 +134,7 @@
 | [0206-reverse-linked-list](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0394-decode-string/) | Medium |
 | [0509-fibonacci-number](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0509-fibonacci-number/) | Easy |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1922-count-good-numbers](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1922-count-good-numbers/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Stack
@@ -168,6 +171,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
@@ -175,6 +179,7 @@
 | [0239-sliding-window-maximum](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0933-number-of-recent-calls](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0933-number-of-recent-calls/) | Easy |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 ## Monotonic Stack
