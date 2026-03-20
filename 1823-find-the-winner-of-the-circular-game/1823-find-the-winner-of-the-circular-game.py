@@ -1,7 +1,7 @@
 class Solution:
     def findTheWinner(self, n: int, k: int) -> int:
         arr = [i for i in range(1, n + 1)]
-        self.cnt = k - 1
+        self.cnt = 0
         self.n = n
         self.k = k
 
@@ -9,15 +9,11 @@ class Solution:
 
             if len(arr1) == 1:
                 return arr1
-            
-            # print(self.cnt, self.cnt % (len(arr1) ))
-            arr1.remove(arr1[self.cnt % (len(arr1) )])
 
-            if self.cnt > len(arr1 ):
-                self.cnt = self.cnt % (len(arr1 ) + 1)
-            # print(arr1, self.cnt)
             self.cnt += self.k - 1
-
+            self.cnt = self.cnt % (len(arr1 ))
+            arr1.remove(arr1[self.cnt ])
+            
             helper(arr1)
 
             return arr1
