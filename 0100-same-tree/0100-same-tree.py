@@ -16,7 +16,7 @@ class Solution:
                 arr.append(root.val)
                 traverse(root.right, arr)
                 arr.append("")
-            # else:
+
                 
             return arr
         
