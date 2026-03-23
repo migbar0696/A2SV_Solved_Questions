@@ -73,6 +73,7 @@
 | [0050-powx-n](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0050-powx-n/) | Medium |
 | [0231-power-of-two](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0342-power-of-four/) | Easy |
 | [0486-predict-the-winner](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0509-fibonacci-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0523-continuous-subarray-sum/) | Medium |
@@ -141,6 +142,7 @@
 | [0206-reverse-linked-list](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0342-power-of-four/) | Easy |
 | [0394-decode-string](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0394-decode-string/) | Medium |
 | [0486-predict-the-winner](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0509-fibonacci-number/) | Easy |
@@ -177,6 +179,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0231-power-of-two/) | Easy |
+| [0342-power-of-four](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0342-power-of-four/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 ## Simulation
