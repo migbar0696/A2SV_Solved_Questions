@@ -72,6 +72,7 @@
 | ------- | ------- |
 | [0050-powx-n](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0050-powx-n/) | Medium |
 | [0231-power-of-two](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0231-power-of-two/) | Easy |
+| [0326-power-of-three](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0326-power-of-three/) | Easy |
 | [0486-predict-the-winner](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0509-fibonacci-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0523-continuous-subarray-sum/) | Medium |
@@ -139,6 +140,7 @@
 | [0050-powx-n](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0231-power-of-two/) | Easy |
+| [0326-power-of-three](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0326-power-of-three/) | Easy |
 | [0394-decode-string](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0394-decode-string/) | Medium |
 | [0486-predict-the-winner](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0509-fibonacci-number/) | Easy |
