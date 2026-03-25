@@ -238,6 +238,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0100-same-tree/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0113-path-sum-ii/) | Medium |
 | [0437-path-sum-iii](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0437-path-sum-iii/) | Medium |
@@ -247,6 +248,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0100-same-tree/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0113-path-sum-ii/) | Medium |
 | [0437-path-sum-iii](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0437-path-sum-iii/) | Medium |
@@ -256,12 +258,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0100-same-tree/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0112-path-sum/) | Easy |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0100-same-tree/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0113-path-sum-ii/) | Medium |
 | [0437-path-sum-iii](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0437-path-sum-iii/) | Medium |
