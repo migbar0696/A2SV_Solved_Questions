@@ -235,20 +235,24 @@
 | ------- | ------- |
 | [0100-same-tree](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0100-same-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0100-same-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0100-same-tree/) | Easy |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0100-same-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
