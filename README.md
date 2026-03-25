@@ -235,6 +235,7 @@
 | ------- | ------- |
 | [0100-same-tree](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0100-same-tree/) | Easy |
 | [0112-path-sum](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0113-path-sum-ii/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 ## Depth-First Search
@@ -242,6 +243,7 @@
 | ------- | ------- |
 | [0100-same-tree](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0100-same-tree/) | Easy |
 | [0112-path-sum](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0113-path-sum-ii/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 ## Breadth-First Search
@@ -255,6 +257,7 @@
 | ------- | ------- |
 | [0100-same-tree](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0100-same-tree/) | Easy |
 | [0112-path-sum](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0113-path-sum-ii/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 ## String Matching
@@ -265,4 +268,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0113-path-sum-ii](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0113-path-sum-ii/) | Medium |
 <!---LeetCode Topics End-->
