@@ -10,14 +10,12 @@ class Solution:
 
             for i in range( len(nums) ):
                 if nums[i] not in arr:
-                    arr.append(nums[i])
+                    backtrack(arr + [nums[i]])
+                    # arr.append(nums[i])
                     
-                else:
-                    continue
-                
-                backtrack(arr)
+                # else:
 
-                arr.pop()
+                # arr.pop()
             
             return ans
         return backtrack([])
