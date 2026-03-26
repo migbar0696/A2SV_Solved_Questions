@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0046-permutations](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0046-permutations/) | Medium |
 | [0053-maximum-subarray](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0053-maximum-subarray/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0118-pascals-triangle](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0118-pascals-triangle/) | Easy |
@@ -282,5 +283,6 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0046-permutations](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0046-permutations/) | Medium |
 | [0113-path-sum-ii](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0113-path-sum-ii/) | Medium |
 <!---LeetCode Topics End-->
