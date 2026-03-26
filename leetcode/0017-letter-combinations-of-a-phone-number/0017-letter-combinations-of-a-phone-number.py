@@ -5,14 +5,14 @@ class Solution:
 
 
         dictletters = {
-            "2":"abc",
-            "3": "def",
-            "4": "ghi",
-            "5":"jkl",
-            "6":"mno",
-            "7":"pqrs",
-            "8":"tuv",
-            "9":"wxyz"
+            2:"abc",
+            3: "def",
+            4: "ghi",
+            5:"jkl",
+            6:"mno",
+            7:"pqrs",
+            8:"tuv",
+            9:"wxyz"
         }
 
         def backtrack(ind, arr):
@@ -24,7 +24,7 @@ class Solution:
                 return 
 
             
-            for ch in dictletters[digits[ind]]:
+            for ch in dictletters[int(digits[ind])]:
                 arr.append(ch)
                 backtrack(ind + 1, arr)
                 arr.pop()
