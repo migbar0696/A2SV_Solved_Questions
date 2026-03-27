@@ -6,7 +6,7 @@ class Solution:
 
         def backtrack(ind):
 
-            if ind >= len(nums):
+            if ind == len(nums):
                 ans.append(subset.copy())
                 return
             
