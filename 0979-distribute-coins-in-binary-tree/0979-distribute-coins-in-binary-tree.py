@@ -7,17 +7,18 @@
 class Solution:
     def distributeCoins(self, root: Optional[TreeNode]) -> int:
         self.res = 0
-        def cntnode(root):
+        def minmove(root):
             if not root:
                 return (0, 0)
             if root:
-                left, leftcoin =  cntnode(root.left)
-                right, rightcoin =  cntnode(root.right)
+                left, leftcoin =  minmove(root.left)
+                right, rightcoin =  minmove(root.right)
 
 
                 ans =  left + right + 1
                 coinsum = leftcoin + rightcoin + root.val
                 self.res += abs(ans - coinsum)
+                
                 return (ans, coinsum)
-        cntnode(root)
+        minmove(root)
         return self.res
