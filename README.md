@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0046-permutations](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0046-permutations/) | Medium |
+| [0051-n-queens](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0053-maximum-subarray/) | Medium |
 | [0078-subsets](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0078-subsets/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
@@ -294,6 +295,7 @@
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0046-permutations](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0046-permutations/) | Medium |
+| [0051-n-queens](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0090-subsets-ii/) | Medium |
 | [0113-path-sum-ii](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0113-path-sum-ii/) | Medium |
