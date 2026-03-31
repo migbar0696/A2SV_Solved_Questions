@@ -20,6 +20,7 @@
 | [0496-next-greater-element-i](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0704-binary-search](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0704-binary-search/) | Easy |
 | [0781-rabbits-in-forest](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0860-lemonade-change](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0860-lemonade-change/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -234,6 +235,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0456-132-pattern](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0456-132-pattern/) | Medium |
+| [0704-binary-search](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0704-binary-search/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
