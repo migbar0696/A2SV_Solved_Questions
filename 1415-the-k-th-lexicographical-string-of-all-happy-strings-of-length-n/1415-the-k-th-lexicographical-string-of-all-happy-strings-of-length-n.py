@@ -2,12 +2,12 @@ class Solution:
     def getHappyString(self, n: int, k: int) -> str:
         st = "abc"
 
-        self.ans = []
+        ans = []
 
         def backtrack(ind, arr):
 
             if len(arr) == n:
-                self.ans.append( "".join(arr[:]))
+                ans.append( "".join(arr[:]))
                 return
             
 
@@ -22,4 +22,4 @@ class Solution:
                     backtrack(i + 1, arr)
                     arr.pop()
         backtrack(0, [])
-        return self.ans[k-1] if k <= len(self.ans) else ""
+        return ans[k-1] if k <= len(ans) else ""
