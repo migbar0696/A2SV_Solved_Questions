@@ -8,9 +8,10 @@ class Solution:
 
             mid = (left + right)//2
 
-            if citations[mid] >= mid + 1 and mid + 1 <= len(citations) - mid:
-                left = mid
-            else:
+            if citations[mid] >= len(citations) - mid :
                 right = mid
+            else:
+                left = mid
             print(mid)
-        return left + 1
+            print(right)
+        return len(citations) - right 
