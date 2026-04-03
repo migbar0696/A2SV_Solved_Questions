@@ -1,6 +1,5 @@
 class Solution:
     def hIndex(self, citations: List[int]) -> int:
-        citations.reverse()
         
         left = -1
         right = len(citations)
@@ -9,8 +8,9 @@ class Solution:
 
             mid = (left + right)//2
 
-            if citations[mid] >= mid + 1:
+            if citations[mid] >= mid + 1 and mid + 1 <= len(citations) - mid:
                 left = mid
             else:
                 right = mid
+            print(mid)
         return left + 1
