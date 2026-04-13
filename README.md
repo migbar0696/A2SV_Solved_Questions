@@ -41,6 +41,7 @@
 | [1823-find-the-winner-of-the-circular-game](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2366-minimum-replacements-to-sort-the-array/) | Hard |
 | [2381-shifting-letters-ii](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2381-shifting-letters-ii/) | Medium |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 | [3683-earliest-time-to-finish-one-task](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/3683-earliest-time-to-finish-one-task/) | Easy |
 ## Hash Table
@@ -98,6 +99,7 @@
 | [1922-count-good-numbers](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1922-count-good-numbers/) | Medium |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2139-minimum-moves-to-reach-target-score/) | Medium |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2366-minimum-replacements-to-sort-the-array/) | Hard |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
