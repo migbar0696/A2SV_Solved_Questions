@@ -6,15 +6,21 @@ class Solution:
         def helper(num):
             pos = 0
             newm = m - 1
+            i = 0
             while newm  > 0:
-                newpos = bisect_left(position, position[pos] + num)
-                print(newpos)
-                if  newpos < len(position):
-                    pos = newpos
-                else:
-                    return False
+                # newpos = bisect_left(position, position[pos] + num)
+                # print(newpos)
+                # if  newpos < len(position):
+                #     pos = newpos
+                # else:
+                #     return False
+                if i < len(position) and position[i] >= position[pos] + num:
+                    pos = i
+                    newm -= 1
                 
-                newm -= 1
+                if i >= len(position):
+                    return  False
+                i += 1
             return True
         
         left = 0
