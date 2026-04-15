@@ -9,6 +9,7 @@
 | [0046-permutations](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0053-maximum-subarray/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0078-subsets/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0090-subsets-ii](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0090-subsets-ii/) | Medium |
@@ -140,6 +141,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -258,6 +260,7 @@
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0035-search-insert-position/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0275-h-index-ii](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0275-h-index-ii/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
