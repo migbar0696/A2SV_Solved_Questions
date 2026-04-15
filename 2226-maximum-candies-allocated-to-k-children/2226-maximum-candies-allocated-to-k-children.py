@@ -19,6 +19,5 @@ class Solution:
                 left = mid
             else:
                 right = mid
-                print(mid, 'midr')
         
         return left
