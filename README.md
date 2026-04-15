@@ -42,6 +42,7 @@
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1598-crawler-log-folder](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1598-crawler-log-folder/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2366-minimum-replacements-to-sort-the-array/) | Hard |
 | [2381-shifting-letters-ii](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2381-shifting-letters-ii/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -267,6 +268,7 @@
 | [0456-132-pattern](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0456-132-pattern/) | Medium |
 | [0475-heaters](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0475-heaters/) | Medium |
 | [0704-binary-search](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0704-binary-search/) | Easy |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
