@@ -17,6 +17,7 @@
 | [0119-pascals-triangle-ii](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0136-single-number](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0136-single-number/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0275-h-index-ii](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0275-h-index-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -117,6 +118,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0053-maximum-subarray/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0912-sort-an-array](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0912-sort-an-array/) | Medium |
 ## Dynamic Programming
@@ -163,6 +165,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0475-heaters](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0475-heaters/) | Medium |
 | [0645-set-mismatch](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0645-set-mismatch/) | Easy |
@@ -256,6 +259,7 @@
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0912-sort-an-array](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0912-sort-an-array/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
@@ -377,4 +381,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
