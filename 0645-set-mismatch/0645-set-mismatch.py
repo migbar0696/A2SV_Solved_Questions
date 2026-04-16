@@ -1,13 +1,13 @@
 class Solution:
     def findErrorNums(self, nums: List[int]) -> List[int]:
         nums.sort()
-        res = []
+        res = [0,0]
         freqn = Counter(nums)
-        for key,  val in freqn.items():
-            if val == 2:
-                res.append(key)
+
         for i in range(1, len(nums) + 1):
-            if i not in freqn.keys():
-                res.append(i)
+            if freqn[i] == 2:
+                res[0] = i
+            if freqn[i] == 0:
+                res[1] = i
         
         return res
