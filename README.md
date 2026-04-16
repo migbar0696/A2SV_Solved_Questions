@@ -15,6 +15,7 @@
 | [0090-subsets-ii](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0090-subsets-ii/) | Medium |
 | [0118-pascals-triangle](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0119-pascals-triangle-ii/) | Easy |
+| [0136-single-number](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0136-single-number/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0275-h-index-ii](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0275-h-index-ii/) | Medium |
@@ -218,6 +219,7 @@
 | ------- | ------- |
 | [0078-subsets](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0090-subsets-ii/) | Medium |
+| [0136-single-number](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0136-single-number/) | Easy |
 | [0231-power-of-two](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0342-power-of-four/) | Easy |
 | [0491-non-decreasing-subsequences](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0491-non-decreasing-subsequences/) | Medium |
