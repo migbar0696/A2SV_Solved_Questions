@@ -5,11 +5,12 @@ class Solution:
 
 
         for num in nums:
-            if nums[num - 1] < 0:
-                res[0] = num
+            if nums[abs(num) - 1] < 0:
+                res[0] = abs(num)
             else:
-                nums[num - 1] *= -1
-        print(nums)
+                nums[abs(num) - 1] *= -1
+
+
         for i in range(len(nums)):
             if nums[i] > 0:
                 res[1] = i + 1
