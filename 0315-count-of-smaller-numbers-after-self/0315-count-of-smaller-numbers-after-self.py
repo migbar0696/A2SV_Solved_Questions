@@ -30,10 +30,12 @@ class Solution:
 
             leftarr = mergesort(left, mid, nums)
             rightarr = mergesort(mid + 1, right, nums)
+            i = 0
             for each in leftarr:
-                ans[each[1]] += bisect_left(rightarr, [each[0], float(-inf)])
-
-
+                while i < len(rightarr) and each[0] > rightarr[i][0]  :
+                    i += 1
+                
+                ans[each[1]] += i
             return merge(leftarr, rightarr)
         
         mergesort(0, len(nums)-1, nums)
