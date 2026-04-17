@@ -5,7 +5,7 @@ class Solution:
                 nums[i] = 0
         
         for num in nums:
-            if abs(num) - 1 < len(nums) and abs(num) - 1 >= 0 and  nums[abs(num )- 1] >= 0 :
+            if 0 <= abs(num) - 1 < len(nums)  and  nums[abs(num )- 1] >= 0 :
                 print(nums[abs(num) - 1])
                 if nums[abs(num ) - 1] == 0:
                     nums[abs(num) - 1] -= 2**31
