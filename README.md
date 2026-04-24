@@ -52,6 +52,7 @@
 | [1598-crawler-log-folder](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1598-crawler-log-folder/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+| [2101-detonate-the-maximum-bombs](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2366-minimum-replacements-to-sort-the-array/) | Hard |
 | [2381-shifting-letters-ii](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2381-shifting-letters-ii/) | Medium |
@@ -120,6 +121,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1922-count-good-numbers](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1922-count-good-numbers/) | Medium |
+| [2101-detonate-the-maximum-bombs](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2139-minimum-moves-to-reach-target-score/) | Medium |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2366-minimum-replacements-to-sort-the-array/) | Hard |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
@@ -337,6 +339,7 @@
 | [0690-employee-importance](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0690-employee-importance/) | Medium |
 | [0979-distribute-coins-in-binary-tree](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
+| [2101-detonate-the-maximum-bombs](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -346,6 +349,7 @@
 | [0130-surrounded-regions](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0130-surrounded-regions/) | Medium |
 | [0690-employee-importance](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0690-employee-importance/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
+| [2101-detonate-the-maximum-bombs](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -412,4 +416,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0130-surrounded-regions/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2101-detonate-the-maximum-bombs](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2101-detonate-the-maximum-bombs](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 <!---LeetCode Topics End-->
