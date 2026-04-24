@@ -337,6 +337,7 @@
 | [0437-path-sum-iii](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0437-path-sum-iii/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0690-employee-importance](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0690-employee-importance/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0979-distribute-coins-in-binary-tree](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
@@ -349,6 +350,7 @@
 | [0112-path-sum](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0112-path-sum/) | Easy |
 | [0130-surrounded-regions](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0130-surrounded-regions/) | Medium |
 | [0690-employee-importance](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0690-employee-importance/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [2101-detonate-the-maximum-bombs](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
@@ -419,9 +421,11 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0130-surrounded-regions/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0785-is-graph-bipartite/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [2101-detonate-the-maximum-bombs](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 ## Geometry
