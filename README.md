@@ -35,6 +35,7 @@
 | [0523-continuous-subarray-sum](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0645-set-mismatch](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0645-set-mismatch/) | Easy |
+| [0690-employee-importance](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0690-employee-importance/) | Medium |
 | [0704-binary-search](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0704-binary-search/) | Easy |
 | [0781-rabbits-in-forest](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0860-lemonade-change](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0860-lemonade-change/) | Easy |
@@ -70,6 +71,7 @@
 | [0523-continuous-subarray-sum](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0645-set-mismatch](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0645-set-mismatch/) | Easy |
+| [0690-employee-importance](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0690-employee-importance/) | Medium |
 | [0781-rabbits-in-forest](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -319,6 +321,7 @@
 | [0113-path-sum-ii](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0113-path-sum-ii/) | Medium |
 | [0437-path-sum-iii](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0437-path-sum-iii/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0690-employee-importance](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0690-employee-importance/) | Medium |
 | [0979-distribute-coins-in-binary-tree](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 ## Depth-First Search
@@ -331,6 +334,7 @@
 | [0130-surrounded-regions](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0130-surrounded-regions/) | Medium |
 | [0437-path-sum-iii](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0437-path-sum-iii/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0690-employee-importance](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0690-employee-importance/) | Medium |
 | [0979-distribute-coins-in-binary-tree](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 ## Breadth-First Search
@@ -340,6 +344,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0112-path-sum/) | Easy |
 | [0130-surrounded-regions](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0130-surrounded-regions/) | Medium |
+| [0690-employee-importance](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0690-employee-importance/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
