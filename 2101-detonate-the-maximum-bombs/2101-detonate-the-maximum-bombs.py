@@ -14,7 +14,6 @@ class Solution:
                 if i != j and  node[2] >= sqrt(((node[0] - nnode[0]) ** 2 )+ ((node[1] - nnode[1])**2)) :
                     graph[tuple(node)].append(nnode)
 
-        print(freqbomb)
         maxb = 0
         
         for i in range(len(bombs)):
@@ -30,11 +29,8 @@ class Solution:
                         visited.add(tuple(neighbour))
                         queue.append(neighbour)
                         cnt += freqbomb[tuple(neighbour)]
-                        print(node, neighbour)
-                        print(freqbomb[tuple(neighbour)])
             
             maxb = max(maxb, cnt)
-        print(graph)
         return maxb
 
 
