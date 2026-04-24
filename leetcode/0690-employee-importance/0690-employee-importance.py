@@ -23,11 +23,12 @@ class Solution:
         queue = deque([id])
 
         while queue:
-            node = queue.popleft()
-            imp += graph[node].importance
 
+            for _ in range(len(queue)):
 
-            for neighbour in graph[node].subordinates:
-                queue.append(neighbour)
+                node = queue.popleft()
+                imp += graph[node].importance
+                for neighbour in graph[node].subordinates:
+                    queue.append(neighbour)
         
         return imp
