@@ -18,6 +18,7 @@
 | [0119-pascals-triangle-ii](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0130-surrounded-regions](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0130-surrounded-regions/) | Medium |
 | [0136-single-number](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0136-single-number/) | Easy |
+| [0140-word-break-ii](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0140-word-break-ii/) | Hard |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0239-sliding-window-maximum/) | Hard |
@@ -67,6 +68,7 @@
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0041-first-missing-positive](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0041-first-missing-positive/) | Hard |
+| [0140-word-break-ii](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0140-word-break-ii/) | Hard |
 | [0442-find-all-duplicates-in-an-array](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0496-next-greater-element-i](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0496-next-greater-element-i/) | Easy |
@@ -140,12 +142,14 @@
 | [0053-maximum-subarray](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0053-maximum-subarray/) | Medium |
 | [0118-pascals-triangle](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0119-pascals-triangle-ii/) | Easy |
+| [0140-word-break-ii](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0140-word-break-ii/) | Hard |
 | [0486-predict-the-winner](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0509-fibonacci-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0140-word-break-ii](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0140-word-break-ii/) | Hard |
 | [0301-remove-invalid-parentheses](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0394-decode-string](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0394-decode-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0856-score-of-parentheses/) | Medium |
@@ -315,6 +319,7 @@
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0140-word-break-ii](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0140-word-break-ii/) | Hard |
 | [0509-fibonacci-number](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0509-fibonacci-number/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
@@ -392,6 +397,7 @@
 | [0078-subsets](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0090-subsets-ii/) | Medium |
 | [0113-path-sum-ii](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0113-path-sum-ii/) | Medium |
+| [0140-word-break-ii](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0140-word-break-ii/) | Hard |
 | [0301-remove-invalid-parentheses](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0491-non-decreasing-subsequences](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
@@ -444,4 +450,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2101-detonate-the-maximum-bombs](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0140-word-break-ii](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0140-word-break-ii/) | Hard |
 <!---LeetCode Topics End-->
