@@ -8,6 +8,7 @@ class Solution:
         currstr = []
 
         def backtrack(ind):
+            # print(currstr)
             nonlocal leftcnt
             nonlocal rightcnt
             nonlocal longeststr
