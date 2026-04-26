@@ -9,28 +9,28 @@ class Solution:
         setrd = set()
         setc = set()
 
-        def backtrack(row, col):
+        def backtrack(row):
 
-            if row == n and  all("Q" in each for each in curr) :
+            if row == n  :
                 res.append([''.join(each) for each in curr])
                 return
 
             
-            for i in range(row, n):
-                for j in range(n):
-                    if i - j not in setld and i + j  not in setrd and j not in setc:
-                        setld.add(i - j)
-                        setrd.add(i + j)
-                        setc.add(j)
-                        curr[i][j] = 'Q'
+        
+            for col in range(n):
+                if row - col not in setld and row + col  not in setrd and col not in setc:
+                    setld.add(row - col)
+                    setrd.add(row + col)
+                    setc.add(col)
+                    curr[row][col] = 'Q'
 
-                        backtrack(i + 1, j)
+                    backtrack(row + 1)
 
-                        curr[i][j] = '.'
-                        setld.remove(i - j)
-                        setrd.remove(i + j)
-                        setc.remove(j)
+                    curr[row][col] = '.'
+                    setld.remove(row - col)
+                    setrd.remove(row + col)
+                    setc.remove(col)
 
-        backtrack(0, 0)
+        backtrack(0)
         return res
 
