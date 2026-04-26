@@ -20,7 +20,7 @@ class Solution:
                     curr.append(str(int(num[ind:i + 1])))
                     for j in range(i + 1, len(num)):
                         curr.append(str(int(num[i + 1:j + 1])))
-                        print(curr)
+                        # print(curr)
                         backtrack(j + 1)
                         curr.pop()
                     curr.pop()
