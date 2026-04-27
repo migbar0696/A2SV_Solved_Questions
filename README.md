@@ -338,6 +338,7 @@
 | [0690-employee-importance](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0690-employee-importance/) | Medium |
 | [0979-distribute-coins-in-binary-tree](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
+| [2236-root-equals-sum-of-children](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -380,6 +381,7 @@
 | [0572-subtree-of-another-tree](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0979-distribute-coins-in-binary-tree](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
+| [2236-root-equals-sum-of-children](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
