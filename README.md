@@ -451,6 +451,7 @@
 | ------- | ------- |
 | [0785-is-graph-bipartite](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
 | [2101-detonate-the-maximum-bombs](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
 ## Geometry
