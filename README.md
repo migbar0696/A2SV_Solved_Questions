@@ -357,6 +357,7 @@
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [2101-detonate-the-maximum-bombs](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -372,6 +373,7 @@
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [2101-detonate-the-maximum-bombs](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -446,6 +448,7 @@
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0130-surrounded-regions/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0785-is-graph-bipartite/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -454,6 +457,7 @@
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
 | [2101-detonate-the-maximum-bombs](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
