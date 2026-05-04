@@ -8,6 +8,7 @@
 | [0035-search-insert-position](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0035-search-insert-position/) | Easy |
 | [0041-first-missing-positive](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0041-first-missing-positive/) | Hard |
 | [0046-permutations](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0046-permutations/) | Medium |
+| [0048-rotate-image](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0048-rotate-image/) | Medium |
 | [0051-n-queens](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0053-maximum-subarray/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -113,6 +114,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0050-powx-n/) | Medium |
 | [0231-power-of-two](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0326-power-of-three/) | Easy |
@@ -173,6 +175,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0048-rotate-image/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0130-surrounded-regions](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0130-surrounded-regions/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
