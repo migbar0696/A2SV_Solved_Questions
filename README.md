@@ -203,6 +203,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0328-odd-even-linked-list/) | Medium |
@@ -211,6 +212,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0050-powx-n](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0231-power-of-two/) | Easy |
