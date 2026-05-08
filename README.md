@@ -28,6 +28,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0330-patching-array](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0330-patching-array/) | Hard |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
@@ -296,6 +297,7 @@
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0912-sort-an-array](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0912-sort-an-array/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
