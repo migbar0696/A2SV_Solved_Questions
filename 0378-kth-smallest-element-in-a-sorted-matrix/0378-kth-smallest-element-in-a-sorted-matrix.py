@@ -11,11 +11,8 @@ class Solution:
         for _ in range(k):
             if arr:
                 num, row, col = heappop(arr)
-                print(col, n - 1)
         
             if col < n - 1:
                 heappush(arr,(matrix[row][col + 1],row, col + 1))
                 
-            
-
         return num
