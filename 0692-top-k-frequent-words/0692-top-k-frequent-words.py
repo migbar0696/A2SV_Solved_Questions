@@ -20,14 +20,16 @@ class Solution:
         heapify(freqarr)
         ans = []
         visited = set()
-        print(freqarr)
-        print(container)
+        # print(freqarr)
+        # print(container)
         
         while freqarr:
             val = heappop(freqarr)
-
             if val not in visited:
-                ans.extend(sorted(container[val])[:freqn[-val]])
+                heapify(container[val])
+                for _ in range(freqn[-val]):
+                    ans.append(heappop(container[val]))
+                # ans.extend(sorted(container[val])[:freqn[-val]])
                 visited.add(val)
         return ans
         
