@@ -28,6 +28,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0330-patching-array](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0330-patching-array/) | Hard |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0456-132-pattern](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0456-132-pattern/) | Medium |
@@ -179,6 +180,7 @@
 | [0074-search-a-2d-matrix](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0130-surrounded-regions](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0130-surrounded-regions/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -194,6 +196,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0475-heaters](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0475-heaters/) | Medium |
 | [0645-set-mismatch](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0645-set-mismatch/) | Easy |
@@ -293,6 +296,7 @@
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0912-sort-an-array](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0912-sort-an-array/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 ## Monotonic Queue
@@ -317,6 +321,7 @@
 | [0275-h-index-ii](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0275-h-index-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0456-132-pattern](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0456-132-pattern/) | Medium |
 | [0475-heaters](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0475-heaters/) | Medium |
 | [0704-binary-search](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0704-binary-search/) | Easy |
