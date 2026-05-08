@@ -41,6 +41,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0645-set-mismatch](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0645-set-mismatch/) | Easy |
 | [0690-employee-importance](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0690-employee-importance/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0704-binary-search](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0704-binary-search/) | Easy |
 | [0781-rabbits-in-forest](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0860-lemonade-change](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0860-lemonade-change/) | Easy |
@@ -79,6 +80,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0645-set-mismatch](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0645-set-mismatch/) | Easy |
 | [0690-employee-importance](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0690-employee-importance/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0781-rabbits-in-forest](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -97,6 +99,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0692-top-k-frequent-words](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1684-count-the-number-of-consistent-strings](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
@@ -157,6 +160,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0306-additive-number](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0306-additive-number/) | Medium |
 | [0394-decode-string](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0394-decode-string/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0796-rotate-string](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0796-rotate-string/) | Easy |
 | [0856-score-of-parentheses](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0856-score-of-parentheses/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
@@ -202,6 +206,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0475-heaters](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0475-heaters/) | Medium |
 | [0645-set-mismatch](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0645-set-mismatch/) | Easy |
+| [0692-top-k-frequent-words](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0912-sort-an-array](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0912-sort-an-array/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
@@ -301,6 +306,7 @@
 | [0239-sliding-window-maximum](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0912-sort-an-array](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0912-sort-an-array/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
@@ -441,6 +447,7 @@
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0692-top-k-frequent-words](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0912-sort-an-array](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0912-sort-an-array/) | Medium |
 ## Radix Sort
 | Problem Name | Difficulty |
@@ -488,6 +495,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0140-word-break-ii](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0140-word-break-ii/) | Hard |
+| [0692-top-k-frequent-words](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0692-top-k-frequent-words/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
