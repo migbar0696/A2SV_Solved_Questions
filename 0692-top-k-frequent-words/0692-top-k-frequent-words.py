@@ -29,8 +29,8 @@ class Solution:
                 heapify(container[val])
                 for _ in range(freqn[-val]):
                     ans.append(heappop(container[val]))
-                # ans.extend(sorted(container[val])[:freqn[-val]])
                 visited.add(val)
+                # ans.extend(sorted(container[val])[:freqn[-val]])
         return ans
         
         
