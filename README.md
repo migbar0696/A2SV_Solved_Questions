@@ -375,6 +375,7 @@
 | [0130-surrounded-regions](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0130-surrounded-regions/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0437-path-sum-iii](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0437-path-sum-iii/) | Medium |
+| [0547-number-of-provinces](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0547-number-of-provinces/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0690-employee-importance](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0690-employee-importance/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0785-is-graph-bipartite/) | Medium |
@@ -394,6 +395,7 @@
 | [0130-surrounded-regions](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0130-surrounded-regions/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0417-pacific-atlantic-water-flow](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
+| [0547-number-of-provinces](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0547-number-of-provinces/) | Medium |
 | [0690-employee-importance](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0690-employee-importance/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
@@ -478,11 +480,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0130-surrounded-regions/) | Medium |
+| [0547-number-of-provinces](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0547-number-of-provinces](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0841-keys-and-rooms](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0841-keys-and-rooms/) | Medium |
