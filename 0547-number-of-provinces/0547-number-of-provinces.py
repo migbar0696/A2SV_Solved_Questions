@@ -3,6 +3,7 @@ class Solution:
         root = [i for i in range(len(isConnected))]
         size = [1] * len(isConnected)
 
+
         def find(x):
             if x == root[x]:
                 return x
@@ -20,13 +21,17 @@ class Solution:
                     root[rootx] = rooty
                     size[rooty] += size[rootx]
         
-        for i in range(len(isConnected)):
-            for j in range(len(isConnected)):
-                if isConnected[i][j] == 1:
-                    union(i, j)
+        n = len(isConnected)
+        numcomp = n
 
         for i in range(len(isConnected)):
-                find(i)
+            for j in range(i + 1, len(isConnected)):
+                if isConnected[i][j] == 1 and find(i) != find(j):
+                    numcomp -= 1
+                    union(i, j)
         
-        return len(set(root))
+        return numcomp
+
+                    
+
         
