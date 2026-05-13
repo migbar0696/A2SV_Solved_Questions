@@ -5,10 +5,16 @@ class Solution:
 
 
         def find(x):
-            if x == root[x]:
-                return x
-            root[x] = find(root[x])
-            return root[x]
+            curr = x
+            while curr != root[curr]:
+                curr = root[curr]
+            
+            while curr != root[x]:
+                parent = root[x]
+                root[x] = curr
+                x = parent
+            return curr
+                
         
         def union(x, y):
             rootx , rooty = find(x), find(y)
