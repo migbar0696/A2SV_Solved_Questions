@@ -1,48 +1,56 @@
 import sys
 input = sys.stdin.readline
 
-n, m = map(int, input().split())
+n, m, k = map(int, input().split())
+root = list(range(n + 1))
+size = [1] *( n + 1)
 
-class UnionFind:
-    def __init__(self, n):
-        self.root = [i for i in range(n + 1)] 
-        self.size = [1] * (n + 1)
-        
-    def find(self,x):
-        if x == self.root[x]:
-            return x
-        
-        self.root[x] =self.find(self.root[x])
-        
-        return self.root[x]
+def find(x):
+    if x == root[x]:
+        return x
 
-    def union(self, x, y):
-        rootx = self.find(x)
-        rooty = self.find(y)
-        
-        if rootx != rooty:
-            
-            if self.size[rootx] > self.size[rooty]:
-                self.root[rooty] = rootx
-                self.size[rootx] += self.size[rooty]
-            else:
-                self.root[rootx] = rooty
-                self.size[rooty] += self.size[rootx]
-            
+    root[x] = find(root[x])
+    return root[x]
+
+def union(x, y):
+    rootx = find(x)
+    rooty = find(y)
     
-uf = UnionFind(n)
-arr = []
+    if rootx == rooty:
+        return True
+    else:
+    
+        if size[rootx] > size[rooty]:
+            root[rooty] = rootx
+            size[rootx] += size[rooty]
+        else:
+            root[rootx] = rooty
+            size[rooty] += size[rootx]
+
+finalcon = []
 
 for _ in range(m):
-        arr.append(list(map(int, input().split())))
+    input()
+op = []
 
+for _ in range(k):
+    a, b, c = input().split()
+    op.append([a, int(b), int(c)])
+ans = []
+op.reverse()
 
-arr.sort(key=lambda x:x[2])
-ans = 0
+for opr, b, e in op:
+    if opr == "ask" and find(b) == find(e):
+        ans.append("YES")
 
-for b, e, w in arr:
-    if uf.find(b) != uf.find(e):
-        ans += w
-        uf.union(b, e)
+    elif opr == "ask":
+        ans.append("NO")
+    
+    elif opr == "cut":
+        union(b, e)
+
+ans.reverse()
+
+for each in ans:
+    print(each)
         
-print(ans)
