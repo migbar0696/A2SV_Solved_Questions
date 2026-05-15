@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0001-two-sum/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0035-search-insert-position/) | Easy |
 | [0041-first-missing-positive](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0041-first-missing-positive/) | Hard |
@@ -71,6 +72,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0001-two-sum/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0041-first-missing-positive](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0041-first-missing-positive/) | Hard |
 | [0140-word-break-ii](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0140-word-break-ii/) | Hard |
