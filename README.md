@@ -22,6 +22,7 @@
 | [0136-single-number](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0136-single-number/) | Easy |
 | [0140-word-break-ii](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0140-word-break-ii/) | Hard |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0275-h-index-ii](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0275-h-index-ii/) | Medium |
@@ -334,6 +335,7 @@
 | [0035-search-insert-position](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0035-search-insert-position/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0275-h-index-ii](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0275-h-index-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
