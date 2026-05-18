@@ -499,6 +499,7 @@
 | [0797-all-paths-from-source-to-target](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0841-keys-and-rooms](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0841-keys-and-rooms/) | Medium |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
+| [1791-find-center-of-star-graph](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1791-find-center-of-star-graph/) | Easy |
 | [2101-detonate-the-maximum-bombs](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
