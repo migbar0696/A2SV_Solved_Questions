@@ -125,6 +125,7 @@
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0050-powx-n/) | Medium |
+| [0070-climbing-stairs](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0070-climbing-stairs/) | Easy |
 | [0231-power-of-two](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0342-power-of-four/) | Easy |
@@ -151,6 +152,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0053-maximum-subarray/) | Medium |
+| [0070-climbing-stairs](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0140-word-break-ii](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0140-word-break-ii/) | Hard |
@@ -349,6 +351,7 @@
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0070-climbing-stairs/) | Easy |
 | [0140-word-break-ii](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0140-word-break-ii/) | Hard |
 | [0509-fibonacci-number](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0509-fibonacci-number/) | Easy |
 ## Game Theory
