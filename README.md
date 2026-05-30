@@ -156,6 +156,7 @@
 | [0118-pascals-triangle](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0140-word-break-ii](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0140-word-break-ii/) | Hard |
+| [0338-counting-bits](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0338-counting-bits/) | Easy |
 | [0486-predict-the-winner](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0509-fibonacci-number/) | Easy |
 ## String
@@ -279,6 +280,7 @@
 | [0136-single-number](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0136-single-number/) | Easy |
 | [0231-power-of-two](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0231-power-of-two/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0338-counting-bits](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0338-counting-bits/) | Easy |
 | [0342-power-of-four](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0342-power-of-four/) | Easy |
 | [0491-non-decreasing-subsequences](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0645-set-mismatch](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0645-set-mismatch/) | Easy |
