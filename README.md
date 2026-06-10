@@ -139,6 +139,7 @@
 | [2101-detonate-the-maximum-bombs](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2139-minimum-moves-to-reach-target-score/) | Medium |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2366-minimum-replacements-to-sort-the-array/) | Hard |
+| [2396-strictly-palindromic-number](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -271,6 +272,7 @@
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0475-heaters](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0475-heaters/) | Medium |
+| [2396-strictly-palindromic-number](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -525,4 +527,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2396-strictly-palindromic-number](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2396-strictly-palindromic-number/) | Medium |
 <!---LeetCode Topics End-->
