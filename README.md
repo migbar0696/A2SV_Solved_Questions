@@ -67,6 +67,7 @@
 | [2381-shifting-letters-ii](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2381-shifting-letters-ii/) | Medium |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2426-number-of-pairs-satisfying-inequality/) | Hard |
 | [2574-left-and-right-sum-differences](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 | [3683-earliest-time-to-finish-one-task](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/3683-earliest-time-to-finish-one-task/) | Easy |
@@ -91,6 +92,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1684-count-the-number-of-consistent-strings](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -288,6 +290,7 @@
 | [0645-set-mismatch](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0645-set-mismatch/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
