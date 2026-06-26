@@ -144,6 +144,7 @@
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2366-minimum-replacements-to-sort-the-array/) | Hard |
 | [2396-strictly-palindromic-number](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3945-digit-frequency-score](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/3945-digit-frequency-score/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -164,6 +165,7 @@
 | [0338-counting-bits](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0338-counting-bits/) | Easy |
 | [0486-predict-the-winner](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0509-fibonacci-number/) | Easy |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -536,4 +538,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2396-strictly-palindromic-number](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2396-strictly-palindromic-number/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 <!---LeetCode Topics End-->
