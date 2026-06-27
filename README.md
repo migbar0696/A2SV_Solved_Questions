@@ -62,6 +62,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2101-detonate-the-maximum-bombs](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2366-minimum-replacements-to-sort-the-array/) | Hard |
 | [2381-shifting-letters-ii](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2381-shifting-letters-ii/) | Medium |
@@ -140,6 +141,7 @@
 | [1823-find-the-winner-of-the-circular-game](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1922-count-good-numbers](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1922-count-good-numbers/) | Medium |
 | [2101-detonate-the-maximum-bombs](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2139-minimum-moves-to-reach-target-score/) | Medium |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2366-minimum-replacements-to-sort-the-array/) | Hard |
 | [2396-strictly-palindromic-number](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2396-strictly-palindromic-number/) | Medium |
@@ -180,6 +182,7 @@
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1598-crawler-log-folder](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1598-crawler-log-folder/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2375-construct-smallest-number-from-di-string](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 | [2381-shifting-letters-ii](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2381-shifting-letters-ii/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2390-removing-stars-from-a-string/) | Medium |
@@ -202,6 +205,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
