@@ -61,6 +61,7 @@
 | [1642-furthest-building-you-can-reach](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1642-furthest-building-you-can-reach/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2101-detonate-the-maximum-bombs](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
@@ -182,6 +183,7 @@
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1598-crawler-log-folder](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1598-crawler-log-folder/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2375-construct-smallest-number-from-di-string](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 | [2381-shifting-letters-ii](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2381-shifting-letters-ii/) | Medium |
