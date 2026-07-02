@@ -46,6 +46,7 @@
 | [0692-top-k-frequent-words](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0704-binary-search](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0704-binary-search/) | Easy |
 | [0781-rabbits-in-forest](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0781-rabbits-in-forest/) | Medium |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0807-max-increase-to-keep-city-skyline/) | Medium |
 | [0860-lemonade-change](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0860-lemonade-change/) | Easy |
 | [0912-sort-an-array](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0912-sort-an-array/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -207,12 +208,14 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0807-max-increase-to-keep-city-skyline/) | Medium |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0330-patching-array](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0330-patching-array/) | Hard |
 | [0781-rabbits-in-forest](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0781-rabbits-in-forest/) | Medium |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0807-max-increase-to-keep-city-skyline/) | Medium |
 | [0860-lemonade-change](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0860-lemonade-change/) | Easy |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1642-furthest-building-you-can-reach](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1642-furthest-building-you-can-reach/) | Medium |
