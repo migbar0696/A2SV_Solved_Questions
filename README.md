@@ -62,6 +62,7 @@
 | [1642-furthest-building-you-can-reach](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1642-furthest-building-you-can-reach/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2101-detonate-the-maximum-bombs](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
@@ -219,6 +220,7 @@
 | [0860-lemonade-change](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0860-lemonade-change/) | Easy |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1642-furthest-building-you-can-reach](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1642-furthest-building-you-can-reach/) | Medium |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2139-minimum-moves-to-reach-target-score/) | Medium |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2366-minimum-replacements-to-sort-the-array/) | Hard |
 | [2375-construct-smallest-number-from-di-string](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
@@ -234,6 +236,7 @@
 | [0912-sort-an-array](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0912-sort-an-array/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -287,6 +290,7 @@
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0475-heaters](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0475-heaters/) | Medium |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Bit Manipulation
