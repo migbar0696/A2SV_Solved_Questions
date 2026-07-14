@@ -556,5 +556,6 @@
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1291-sequential-digits](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1291-sequential-digits/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 <!---LeetCode Topics End-->
