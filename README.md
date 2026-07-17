@@ -150,6 +150,7 @@
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2366-minimum-replacements-to-sort-the-array/) | Hard |
 | [2396-strictly-palindromic-number](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3945-digit-frequency-score](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/3945-digit-frequency-score/) | Easy |
 ## Divide and Conquer
@@ -558,4 +559,8 @@
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1291-sequential-digits/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
