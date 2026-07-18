@@ -4,12 +4,12 @@ class Solution:
         maxn = max(nums)
         sets = set()
         setl = set()
+        num = 1
 
         for i in range(1, maxn + 1):
-            if minn % i == 0:
-                sets.add(i)
-            if maxn % i == 0:
-                setl.add(i)
-        newst = sets.intersection(setl) 
+            if minn % i == 0 and maxn % i == 0:
+                num = max(num, i)
+                
 
-        return max(newst)
+
+        return num
