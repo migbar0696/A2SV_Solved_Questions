@@ -65,6 +65,7 @@
 | [1823-find-the-winner-of-the-circular-game](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2101-detonate-the-maximum-bombs](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
@@ -144,6 +145,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1922-count-good-numbers](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1922-count-good-numbers/) | Medium |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2101-detonate-the-maximum-bombs](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2139-minimum-moves-to-reach-target-score/) | Medium |
@@ -562,5 +564,6 @@
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
