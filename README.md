@@ -194,6 +194,7 @@
 | [2375-construct-smallest-number-from-di-string](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 | [2381-shifting-letters-ii](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2381-shifting-letters-ii/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [2785-sort-vowels-in-a-string](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Design
@@ -242,6 +243,7 @@
 | [1552-magnetic-force-between-two-balls](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
+| [2785-sort-vowels-in-a-string](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
