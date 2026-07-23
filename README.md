@@ -71,6 +71,7 @@
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2366-minimum-replacements-to-sort-the-array/) | Hard |
 | [2381-shifting-letters-ii](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2381-shifting-letters-ii/) | Medium |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2426-number-of-pairs-satisfying-inequality/) | Hard |
 | [2574-left-and-right-sum-differences](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -229,6 +230,7 @@
 | [2139-minimum-moves-to-reach-target-score](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2139-minimum-moves-to-reach-target-score/) | Medium |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2366-minimum-replacements-to-sort-the-array/) | Hard |
 | [2375-construct-smallest-number-from-di-string](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -243,6 +245,7 @@
 | [1552-magnetic-force-between-two-balls](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2785-sort-vowels-in-a-string](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -299,6 +302,7 @@
 | [0475-heaters](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0475-heaters/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2396-strictly-palindromic-number/) | Medium |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
