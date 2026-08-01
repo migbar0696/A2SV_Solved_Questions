@@ -68,6 +68,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2101-detonate-the-maximum-bombs](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
+| [2149-rearrange-array-elements-by-sign](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2366-minimum-replacements-to-sort-the-array/) | Hard |
@@ -302,6 +303,7 @@
 | [0287-find-the-duplicate-number](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0475-heaters](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0475-heaters/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
+| [2149-rearrange-array-elements-by-sign](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
@@ -326,6 +328,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+| [2149-rearrange-array-elements-by-sign](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Queue
