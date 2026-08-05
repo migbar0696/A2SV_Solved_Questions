@@ -95,6 +95,7 @@
 | [0645-set-mismatch](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0645-set-mismatch/) | Easy |
 | [0690-employee-importance](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0690-employee-importance/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0771-jewels-and-stones](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0771-jewels-and-stones/) | Easy |
 | [0781-rabbits-in-forest](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -187,6 +188,7 @@
 | [0306-additive-number](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0306-additive-number/) | Medium |
 | [0394-decode-string](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0394-decode-string/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0771-jewels-and-stones](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0771-jewels-and-stones/) | Easy |
 | [0796-rotate-string](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0796-rotate-string/) | Easy |
 | [0856-score-of-parentheses](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0856-score-of-parentheses/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
