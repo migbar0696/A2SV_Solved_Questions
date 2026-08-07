@@ -89,6 +89,7 @@
 | [0041-first-missing-positive](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0041-first-missing-positive/) | Hard |
 | [0140-word-break-ii](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0140-word-break-ii/) | Hard |
 | [0217-contains-duplicate](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0242-valid-anagram/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0496-next-greater-element-i](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0496-next-greater-element-i/) | Easy |
@@ -186,6 +187,7 @@
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0140-word-break-ii](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0140-word-break-ii/) | Hard |
+| [0242-valid-anagram](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0242-valid-anagram/) | Easy |
 | [0301-remove-invalid-parentheses](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0306-additive-number](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0306-additive-number/) | Medium |
 | [0394-decode-string](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0394-decode-string/) | Medium |
@@ -242,6 +244,7 @@
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0242-valid-anagram/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0475-heaters](https://github.com/migbar0696/A2SV_Solved_Questions/tree/main/0475-heaters/) | Medium |
